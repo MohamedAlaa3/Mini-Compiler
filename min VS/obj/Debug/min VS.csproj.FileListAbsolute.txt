@@ -1,0 +1,10 @@
+C:\Users\Mohamed Alaa\source\repos\min VS\bin\Debug\min VS.exe.config
+C:\Users\Mohamed Alaa\source\repos\min VS\bin\Debug\min VS.exe
+C:\Users\Mohamed Alaa\source\repos\min VS\bin\Debug\min VS.pdb
+C:\Users\Mohamed Alaa\source\repos\min VS\obj\Debug\min VS.csprojAssemblyReference.cache
+C:\Users\Mohamed Alaa\source\repos\min VS\obj\Debug\min_VS.Form1.resources
+C:\Users\Mohamed Alaa\source\repos\min VS\obj\Debug\min_VS.Properties.Resources.resources
+C:\Users\Mohamed Alaa\source\repos\min VS\obj\Debug\min VS.csproj.GenerateResource.cache
+C:\Users\Mohamed Alaa\source\repos\min VS\obj\Debug\min VS.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\source\repos\min VS\obj\Debug\min VS.exe
+C:\Users\Mohamed Alaa\source\repos\min VS\obj\Debug\min VS.pdb
