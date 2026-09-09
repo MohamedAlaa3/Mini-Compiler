@@ -1,0 +1,4 @@
+{
+  "name": "Mini Compiler (C# / Mono)",
+  "install": "sudo apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y mono-complete libgdiplus && (xbuild /p:Configuration=Debug 'min VS/min VS.sln' || true)"
+}
